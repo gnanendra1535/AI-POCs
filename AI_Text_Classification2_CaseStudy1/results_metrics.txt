@@ -1,0 +1,18 @@
+Classes (label encoder order): ['0', '1']
+Positive class chosen (encoded): 1 -> '1'
+
+Total samples: 7414
+TP: 670
+TN: 3097
+FP: 477
+FN: 3170
+
+Accuracy: 0.508093
+Misclassification Rate: 0.491907
+True Positive Rate (Recall / Sensitivity): 0.174479
+False Positive Rate: 0.133464
+Specificity: 0.866536
+Precision: 0.584133
+Null Error Rate: 0.517939
+
+ROC AUC (using predicted labels as scores): 0.520508
